@@ -1,4 +1,4 @@
-module gitlab.com/CoinSummer/Base/goja-aptos
+module github.com/ThreeAndTwo/goja-aptos
 
 go 1.16
 
