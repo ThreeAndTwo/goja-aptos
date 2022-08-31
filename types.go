@@ -1,4 +1,4 @@
-package goja_onchain_vm
+package gojaaptos
 
 import (
 	"github.com/dop251/goja"

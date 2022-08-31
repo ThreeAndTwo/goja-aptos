@@ -1,10 +1,11 @@
-package goja_onchain_vm
+package gojaaptos
 
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/imroc/req"
 	"strings"
+
+	"github.com/imroc/req"
 )
 
 type ReqType string

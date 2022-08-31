@@ -1,4 +1,4 @@
-package goja_onchain_vm
+package gojaaptos
 
 import (
 	"encoding/json"

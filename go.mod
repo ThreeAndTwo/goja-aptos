@@ -1,4 +1,4 @@
-module github.com/ThreeAndTwo/goja-onchain-vm
+module gitlab.com/CoinSummer/Base/goja-aptos
 
 go 1.16
 
